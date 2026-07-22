@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+.ipynb
+
+# Dataset (downloaded separately, see README)
+tcc_ceds_music.csv
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store

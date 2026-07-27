@@ -40,7 +40,7 @@ differentiation between dissimilar songs.
 1. Clone the repository:
 ```bash
 git clone https://github.com/Ali-reza-rn/content-based-music-recommender.git
-cd content-based-music-recommende
+cd content-based-music-recommender
 ```
 
 2. Install dependencies:
